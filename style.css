@@ -4,6 +4,12 @@ body {background-color: rgb(99, 84, 63);}
 header {
   color: green;
 }
+header{
+  background-color: yellow; text-align: center;
+}
+footer{
+  background-color: lightblue; text-align: center;
+}
 footer {
   color: yellow;
 }
